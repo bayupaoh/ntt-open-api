@@ -15,9 +15,9 @@ use App\Http\Controllers\SiranapController;
 |
 */
 
-Route::middleware('auth:api')->get('/user', function (Request $request) {
-    return $request->user();
-});
+// Route::middleware('auth:api')->get('/user', function (Request $request) {
+//     return $request->user();
+// });
 
 Route::get('siranap/ntt/kabupaten',[SiranapController::class, 'regency']);
 Route::get('siranap/ntt/tempat-tidur/covid',[SiranapController::class, 'bedAvalaibilityForCovid']);
