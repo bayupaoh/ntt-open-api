@@ -1,0 +1,532 @@
+[
+ {
+   "city": "Kabupaten Alor",
+   "id": 5307010,
+   "name": "RSUD Kalabahi",
+   "type": "RSU Pemerintah",
+   "class": "C",
+   "address": "Jl. Dr Sutomo No. 8, Kalabahi Kota, Teluk Mutiara",
+   "contact": "(0386) 21008\n(0386) 21008",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Alor",
+   "id": 5307021,
+   "name": "RS Bergerak Kabupaten Alor",
+   "type": "RS",
+   "class": "D",
+   "address": "Jalan Masang RT. 08/RW. 04, Welai Timur, Teluk Mutiara 85111",
+   "contact": "0853-3721-4787",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Belu",
+   "id": 5306016,
+   "name": "RSUD Mgr. Gabriel Manek",
+   "type": "RSU Pemerintah",
+   "class": "C",
+   "address": "Jl. Dr Sutomo No.2, Tenukiik, Kec. Kota Atambua 85711",
+   "contact": "(0389) 2513312\n(0389) 2513137\n(0389) 21762",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Belu",
+   "id": 5306020,
+   "name": "RS Katolik Marianum Halilulik",
+   "type": "RS",
+   "class": "D",
+   "address": "Naitimu, Kec. Tasifeto Barat",
+   "contact": "(0389) 22244",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Belu",
+   "id": 5306031,
+   "name": "RSU Sito Husada",
+   "type": "RSU",
+   "class": "D",
+   "address": "Jl. Ki Hajar Dewantara No. 15, Berdao, Kec. Atambua Barat",
+   "contact": "(0389) 21700\n(0389) 22277",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Belu",
+   "id": 5306053,
+   "name": "Rumkitban Tk. IV 09.08.02 Atambua",
+   "type": "RS Pemerintah",
+   "class": "D",
+   "address": "Jalan Piere Tendean, Gerbades, Beirafu, Kec. Atambua Barat",
+   "contact": "(0389) 23130\n(0389) 23130",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Ende",
+   "id": 5311013,
+   "name": "RSUD Ende",
+   "type": "RSU Pemerintah",
+   "class": "D",
+   "address": "Jalan Prof. Dr. W.Z Yohanes, Paupire, Ende Tengah",
+   "contact": "081138116429 (call center)\n(0381) 2627100\n(0381) 2627100\n\n",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Ende",
+   "id": 5311024,
+   "name": "RS Katolik Santo Antonius Jopu",
+   "type": "RS",
+   "class": "D",
+   "address": "Jl. Wolowaru-Nggela RT 018/RW 009, Jopu, Wolowaru",
+   "contact": "0813-1965-6784\n",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Flores Timur",
+   "id": 5309012,
+   "name": "RSUD dr. Hendrikus Fernandez",
+   "type": "RSU Pemerintah",
+   "class": "D",
+   "address": "Jl. Jenderal Sudirman No. 33, Sarotari Tengah, Larantuka",
+   "contact": "(0383) 21836\n(0383) 21836\n",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Kupang",
+   "id": 5303045,
+   "name": "RSUD Naibonat",
+   "type": "RSU Pemerintah",
+   "class": "C",
+   "address": "Jl. Timor Raya KM 37, Naibonat, Kupang Timur 85362",
+   "contact": "0813-3757-4455\n",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Lembata",
+   "id": null,
+   "name": "RSUD Lewoleba",
+   "type": "RSU Pemerintah",
+   "class": "D",
+   "address": "Lewoleba Timur, Nubatukan",
+   "contact": "(0383) 2343442\n(0383) 2343442\n",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Lembata",
+   "id": 5308023,
+   "name": "RS Bukit Lewoleba",
+   "type": "RS",
+   "class": "D",
+   "address": "Lewoleba, Nubatukan 86682",
+   "contact": "(0383) 2343062\n",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Lembata",
+   "id": 5309034,
+   "name": "RS Kusta Santo Damian",
+   "type": "RS",
+   "class": "D",
+   "address": "Lewoleba Tengah, Nubatukan",
+   "contact": "(0383) 41026",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Malaka",
+   "id": 5306042,
+   "name": "RSU Penyangga Perbatasan Betun",
+   "type": "RSU Pemerintah",
+   "class": "D",
+   "address": "Jalan Sukabihanawa No. 2, Kamanasa, Malaka Tengah 85762",
+   "contact": "0813-2159-6129\n",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Manggarai",
+   "id": 5313015,
+   "name": "RSUD dr. Ben Mboi",
+   "type": "RSU Pemerintah",
+   "class": "D",
+   "address": "Jl. Dr. Soetomo no.1, Watu, Langke Rembong",
+   "contact": "(0385) 21389\n\n",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Manggarai",
+   "id": 5313026,
+   "name": "RS Katolik St. Rafael Cancar",
+   "type": "RS",
+   "class": "D",
+   "address": "Jl. Raya Ruteng - Labuan Bajo, Cancar",
+   "contact": "0852-3981-0401\n",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Manggarai Barat",
+   "id": 5315003,
+   "name": "RSUD Pratama Komodo",
+   "type": "RSU Pemerintah",
+   "class": "D",
+   "address": "Golo Bilas, Komodo 86554",
+   "contact": "0813-3705-5250\n\nSitus[pranala nonaktif permanen]",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Manggarai Barat",
+   "id": 5315002,
+   "name": "RSU Siloam",
+   "type": "RSU",
+   "class": "C",
+   "address": "Jl. Gabriel Gampur RT 013 RW 005, Dusun V, Labuan Bajo, Komodo 86754",
+   "contact": "(0385) 2381900\n\n",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Manggarai Timur",
+   "id": null,
+   "name": "RSUD Manggarai Timur",
+   "type": "RSU Pemerintah",
+   "class": "",
+   "address": "Desa Gurung Liwut, Lehong, Borong",
+   "contact": "(belum tersedia)",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Nagekeo",
+   "id": 5318002,
+   "name": "RSD Aeramo Nagekeo",
+   "type": "RS Pemerintah",
+   "class": "-",
+   "address": "Aeramo, Aesesa 86472",
+   "contact": "0813-3776-2086\n",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Ngada",
+   "id": 5312014,
+   "name": "RSUD Bajawa",
+   "type": "RSU Pemerintah",
+   "class": "D",
+   "address": "Jl. Diponegoro No.5, Trikora, Bajawa 86453",
+   "contact": "(0384) 986652\n(0384) 2223858\n\n",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Rote Ndao",
+   "id": 5303024,
+   "name": "RSUD Ba'a",
+   "type": "RSU Pemerintah",
+   "class": "D",
+   "address": "Jl. Ba'a - Busalangga, Mokdale, Lobalain 85371",
+   "contact": "(0380) 871084\n(0380) 871084\n",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Sabu Raijua",
+   "id": 5320002,
+   "name": "RSUD Sabu Raijua",
+   "type": "RSU Pemerintah",
+   "class": "D",
+   "address": "Jl. El Tari, Menia, Sabu Barat 85391",
+   "contact": "0822-3610-7340",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Sikka",
+   "id": 5310012,
+   "name": "RSUD Dr T. C. Hillers",
+   "type": "RSU Pemerintah",
+   "class": "C[3]",
+   "address": "Jl. Wairklau No. 1, Kota Baru, Alok Timur 86113",
+   "contact": "(0382) 2426133\n(0382) 2426133\n0812-6115-3944 (poliklinik)",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Sikka",
+   "id": 5310023,
+   "name": "RS St Elisabeth Lela",
+   "type": "RS",
+   "class": "D",
+   "address": "Jalan Dr. Sr Conchita, Lela, Maumere 86161",
+   "contact": "0813-5378-2435\n\n[pranala nonaktif permanen]",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Sikka",
+   "id": 5310034,
+   "name": "RSU Katolik St. Gabriel Kewapante",
+   "type": "RSU",
+   "class": "D",
+   "address": "Jl. Raya Kewapante Ohe, Kajowair, Hewokloang",
+   "contact": "(0382) 2425116\n081237629456\n(0382) 2425116",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Sumba Barat",
+   "id": 5301033,
+   "name": "RSUD Waikabubak",
+   "type": "RSU Pemerintah",
+   "class": "C",
+   "address": "Jl. Adhayaksa KM 3, Soba Wawi, Loli",
+   "contact": "\n",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Sumba Barat",
+   "id": 5301011,
+   "name": "RS Kristen Lende Moripa",
+   "type": "RS",
+   "class": "D",
+   "address": "Jalan El Tari No.2, Kampung Sawah, Kota Waikabubak 87213",
+   "contact": "(0387) 21085",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Sumba Barat Daya",
+   "id": null,
+   "name": "RSUD Pratama Reda Bolo\nRSUD Sumba Barat Daya",
+   "type": "RSU Pemerintah",
+   "class": "",
+   "address": "Watu Kawula, Wewewa Barat",
+   "contact": "(belum tersedia)",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Sumba Barat Daya",
+   "id": 5301022,
+   "name": "RS Karitas",
+   "type": "RS",
+   "class": "D",
+   "address": "Jl. Lintas Waitabula-Waikabubak, Wee Tobula, Kota Tambolaka",
+   "contact": "0812-3727-9066\n(0387) 252400",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Sumba Tengah",
+   "id": 5316003,
+   "name": "RSUD Waibakul",
+   "type": "RSU Pemerintah",
+   "class": "D",
+   "address": "Umbu Mamijuk, Umbu Ratu Nggay Barat 87231",
+   "contact": "0822-3736-6076\n",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Sumba Timur",
+   "id": 5302023,
+   "name": "RSUD Umbu Rara Meha",
+   "type": "RSU Pemerintah",
+   "class": "C",
+   "address": "JL. Adam Malik No. 54, Kembala, Kambajawa, Kota Waingapu",
+   "contact": "(0387) 61302\n(0387) 62551\n",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Sumba Timur",
+   "id": 5302012,
+   "name": "RS Kristen Lindimara",
+   "type": "RS",
+   "class": "D",
+   "address": "Jl. Prof. Dr. W. Z. Johanes, No. 6, Prailiu, Kambera 87113",
+   "contact": "(0387) 61064\n\n",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Sumba Timur",
+   "id": 5302034,
+   "name": "RSU Imanuel",
+   "type": "RSU",
+   "class": "D",
+   "address": "Matawai, Kota Waingapu",
+   "contact": "(0387) 62980\n(0387) 61109",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Timor Tengah Selatan",
+   "id": 5304014,
+   "name": "RSUD Soe",
+   "type": "RSU Pemerintah",
+   "class": "D",
+   "address": "Jl. Bougenville No. 7, Kota Soe",
+   "contact": "(0388) 21005\n(0388) 21239\n",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Timor Tengah Selatan",
+   "id": 5304015,
+   "name": "RSU Muder Ignacia",
+   "type": "RSU",
+   "class": "-",
+   "address": "Jalan Muder Ignacia No. 38 Kelurahan Nunumeu Kecamatan Kota Soe",
+   "contact": "0811-3838-107\n",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Timor Tengah Utara",
+   "id": 5305015,
+   "name": "RSUD Kefamenanu",
+   "type": "RSU Pemerintah",
+   "class": "C",
+   "address": "Jalan Letjen Suprapto, Kefamenanu Tengah, Kota Kefamenanu",
+   "contact": "(0388) 31149\n\n",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kabupaten Timor Tengah Utara",
+   "id": 5305025,
+   "name": "RSU Leona",
+   "type": "RSU",
+   "class": "C",
+   "address": "Maubeli, Kota Kefamenanu",
+   "contact": "0821-4646-1582",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kabupaten Timor Tengah Utara",
+   "id": 5305024,
+   "name": "RS Kusta dan Cacat Umum Bunda Pembantu Abadi",
+   "type": "RS",
+   "class": "C",
+   "address": "Jl. El Tari, Meubeli, Kota Kefamenanu",
+   "contact": "0813-3145-3947",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kota Kupang",
+   "id": 5371011,
+   "name": "RSUD Prof. Dr. W. Z. Johannes",
+   "type": "RSU Pemerintah",
+   "class": "C",
+   "address": "Jl. Moh. Hatta No.19, Oetete, Kec. Oebobo 85111",
+   "contact": "(0380) 833-614\n(0380) 832-892\n\n",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kota Kupang",
+   "id": 5303013,
+   "name": "RSUD S. K. Lerik",
+   "type": "RSU Pemerintah",
+   "class": "C",
+   "address": "Jalan Timor Raya Pasir No. 134, Pasir Panjang, Kec. Kota Lama",
+   "contact": "(0380) 824157\n(0380) 824157\n",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kota Kupang",
+   "id": 5303033,
+   "name": "RS Bhayangkara Tk. III Drs. Titus Ully",
+   "type": "RS Pemerintah",
+   "class": "D",
+   "address": "Jl. Nangka No. 84, Oetete, Kec. Oebobo",
+   "contact": "(0380) 821999\n0811-381-1936 (Poliklinik)\n\n",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kota Kupang",
+   "id": 5303022,
+   "name": "RS Tk. IV 09.07.01 Wirasakti",
+   "type": "RS Pemerintah",
+   "class": "C",
+   "address": "Jl. Moh. Hatta No. 9-11, Oetete, Kec. Oebobo 85112",
+   "contact": "(0380) 821131\n(0380) 824735",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kota Kupang",
+   "id": 5303028,
+   "name": "RSU Siloam",
+   "type": "RSU",
+   "class": "B",
+   "address": "Jl. R. W. Monginsidi, Fatululi, Kec. Oebobo",
+   "contact": "(0380) 8530900\n\n",
+   "rujukan_covid": true
+ },
+ {
+   "city": "Kota Kupang",
+   "id": 5371054,
+   "name": "RS Mamami",
+   "type": "RS",
+   "class": "D",
+   "address": "Jalan R. W. Monginsidi I No. 3, Pasir Panjang, Kec. Kota Lama 85227",
+   "contact": "0811-3811-012\n",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kota Kupang",
+   "id": 5371057,
+   "name": "RS Kartini",
+   "type": "RS",
+   "class": "D",
+   "address": "Jl. Frans Seda No.17, Tuak Daun Merah, Kec. Oebobo 85228",
+   "contact": "(0380) 831270\n\n",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kota Kupang",
+   "id": 5371058,
+   "name": "RSU Leona",
+   "type": "RSU",
+   "class": "C",
+   "address": "Jl. Soverdi No.20, Oebufu, Kec. Oebobo 85111",
+   "contact": "0811-3818-622\n",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kota Kupang",
+   "id": 5371047,
+   "name": "RS Ibu dan Anak (RSIA) Dedari",
+   "type": "RSIA",
+   "class": "C",
+   "address": "Jalan Rantai Damai No.69D, Tuak Daun Merah, Kec. Oebobo 85228",
+   "contact": "(0380) 830041\n(0380) 826774",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kota Kupang",
+   "id": 5371059,
+   "name": "RS Jiwa (RSJ) Naimata",
+   "type": "RSJ",
+   "class": "C",
+   "address": "Liliba, Kec. Oebobo",
+   "contact": "(0380) 825212\n(0380) 825212\n",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kota Kupang",
+   "id": 5371046,
+   "name": "RS TNI Angkatan Laut (RSAL) Lantanal VII Samuel J. Moeda",
+   "type": "RS Pemerintah",
+   "class": "D",
+   "address": "Jl. Yos Sudarso No. 5, Namosain, Kec. Alak 85232",
+   "contact": "(0380) 890670\n",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kota Kupang",
+   "id": 5371055,
+   "name": "RS TNI Angkatan Udara (RSAU) El Tari",
+   "type": "RS Pemerintah",
+   "class": "D",
+   "address": "Jl. Adisucipto No. 2, Penfui, Maulafa 85361",
+   "contact": "(0380) 8003477",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kota Kupang",
+   "id": 5371052,
+   "name": "RS Katolik St. Carolus Borromeus",
+   "type": "RS",
+   "class": "D",
+   "address": "Jalan Adisucipto, Bello, Maulafa",
+   "contact": "(0380) 8438504",
+   "rujukan_covid": false
+ },
+ {
+   "city": "Kota Kupang",
+   "id": 5371052,
+   "name": "RS Katolik St. Carolus Borromeus",
+   "type": "RS",
+   "class": "D",
+   "address": "Jalan Adisucipto, Bello, Maulafa",
+   "contact": "(0380) 8438504",
+   "rujukan_covid": false
+ }
+]
