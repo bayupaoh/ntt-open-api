@@ -3,7 +3,7 @@ API related with Nusa Tenggara Timur
 
 # List of API
 
-Base Url : *http://open-api-ntt.herokuapp.com/*
+Base Url : *https://open-api-ntt.herokuapp.com/*
 |No |Path   |  Method  |  Description | 
 |---|---|---|---|
 |1   |`api/siranap/ntt/kabupaten`   |GET   |Get list of regency in Nusa Tenggara Timur (Source: https://yankes.kemkes.go.id/app/siranap/) |
