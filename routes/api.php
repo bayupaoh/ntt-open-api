@@ -4,6 +4,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\SiranapController;
 use App\Http\Controllers\HospitalController;
+use App\Http\Controllers\VaksinController;
 
 /*
 |--------------------------------------------------------------------------
@@ -24,3 +25,6 @@ Route::get('siranap/ntt/tempat-tidur/non-covid/{id}',[SiranapController::class, 
 
 Route::get('hospital',[HospitalController::class, 'listHospital']);
 Route::get('hospital/sdm',[HospitalController::class, 'hospitalHumanResources']);
+
+Route::get('vaksin/city',[VaksinController::class, 'getCity']);
+Route::get('vaksin/location',[VaksinController::class, 'getVaccineLocation']);

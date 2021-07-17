@@ -13,3 +13,5 @@ Base Url : *https://open-api-ntt.herokuapp.com/*
 |5   |`api/siranap/ntt/tempat-tidur/non-covid/{id}`   |GET   |Get detail information related hospital bed availability for non covid treatment (Source: https://yankes.kemkes.go.id/app/siranap/)    |
 |6   |`api/hospital`  |GET   |Get list hospital information in NTT (Source: https://id.wikipedia.org/wiki/Daftar_rumah_sakit_di_Nusa_Tenggara_Timur)    |
 |7   |`api/hospital/sdm`   |GET   |Get information related hospital human resources in NTT (Source: http://bppsdmk.kemkes.go.id/info_sdmk/info/distribusi_sdmk_rs_per_prov)    |
+|7   |`api/vaksin/city`   |GET   |Get city list to use for get vaccine location information (Source: https://covid19.go.id/faskesvaksin)    |
+|7   |`api/vaksin/location?city={name of city}`   |GET   |Get information related vaccine location based on city. For the list of city you can refer from `api/vaksin/city` (Source: https://covid19.go.id/faskesvaksin)    |
